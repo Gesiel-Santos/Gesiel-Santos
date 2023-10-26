@@ -7,7 +7,6 @@
 
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gesiel-Santos&theme=algolia&show_icons=true&show=prs_merged,prs_merged_percentage&hide_rank=true)
 
 
@@ -41,7 +40,7 @@
 
 
 
-![Snake animation](https://github.com/Gesiel-Santos/Gesiel-Santos/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
