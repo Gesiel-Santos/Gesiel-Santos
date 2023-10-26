@@ -5,7 +5,8 @@
 
 
 
-  
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gesiel-Santos&theme=algolia&show_icons=true&show=prs_merged,prs_merged_percentage&hide_rank=true)
 
@@ -29,9 +30,12 @@
 <a href= "mailto:santosgesie30@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/gesiel-santos-72664b258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
+
   
 
 
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gesiel-Santos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
