@@ -23,7 +23,6 @@
     <img align="center" height="40" width="80" alt="mysql-icon" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white.svg">
     <img align="center" height="40" width="100" alt="Microsoft_Excel-icon" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white.svg">
     <img align="center" height="40" width="100" alt="Microsoft_Word-icon" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white.svg">
-</div>
 
   <h1 align="center">Redes Sociais</h1>
   <div align="center">  
