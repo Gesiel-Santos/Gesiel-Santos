@@ -22,13 +22,13 @@
     <img align="center" height="40" width="50" alt="R-icon" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white.svg">
     <img align="center" height="40" width="80" alt="mysql-icon" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white.svg">
     <img align="center" height="40" width="100" alt="Microsoft_Excel-icon" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white.svg">
-    <img align="center" height="40" width="100" alt="Microsoft_Word-icon" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white.svg">
+</div> 
 
   <h1 align="center">Redes Sociais</h1>
   <div align="center">  
 <a href= "mailto:santosgesie30@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="www.linkedin.com/in/gesiel-santos-72664b258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
+<a href="www.linkedin.com/in/gesiel-santos-72664b258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+
   
 
 
