@@ -24,17 +24,21 @@
     <img align="center" height="40" width="50" alt="R-icon" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white.svg">
     <img align="center" height="40" width="80" alt="mysql-icon" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white.svg">
     <img align="center" height="40" width="100" alt="Microsoft_Excel-icon" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white.svg">
-    <img align="center" height="40" width="45" alt="Power-Bi-icon" <img width="45" src="Desktop.svg">
+    <img align="center" height="40" width="65" alt="Power-Bi-icon" <img width="45" src="Desktop.svg">
+    <img align="center" height="50" width="70" alt="coding-time" src="SQL.PNG.jpeg">
    </div>
 
-  <h1 align="center">Redes Sociais</h1>
-  <div align="center">  
-<a href= "mailto:santosgesie30@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/gesiel-santos-72664b258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+
+  <div  align="center"> 
+  <div style="display: inline_block"><br>
+    <h1 align="center">Redes Sociais </h1>
+    <a href= "mailto:santosgesie30@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+    <a href="https://www.linkedin.com/in/gesiel-santos-72664b258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   </div>
 
+
+  <h1 >
   
- 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gesiel-Santos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)
   
 
@@ -47,4 +51,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
