@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Gesiel+Santos;I'm+26+years+old;I+from+Brasil,+GO;I+study+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
-  <img  height="350em" src="https://github-readme-stats.vercel.app/api?username=Gesiel-Santos&theme=algolia&show_icons=true&show=prs_merged,prs_merged_percentage&hide_rank=true"/>
-  <img align="right" height="350" alt="coding-time" src="code.gif">
+  <img  height="250em" src="https://github-readme-stats.vercel.app/api?username=Gesiel-Santos&theme=algolia&show_icons=true&show=prs_merged,prs_merged_percentage&hide_rank=true"/>
+  <img align="right" height="250" alt="coding-time" src="code.gif">
 </div>
 <br>
 
